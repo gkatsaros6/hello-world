@@ -1,2 +1,2 @@
 # hello-world
-Test github project
+A perfect day to get familiar with github!
